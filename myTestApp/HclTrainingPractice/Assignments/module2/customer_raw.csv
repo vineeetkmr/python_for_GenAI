@@ -1,0 +1,51 @@
+CustomerID,Name,Age,Gender,Income,SpendingScore,PurchaseFrequency,City,MembershipLevel,JoinDate,LastPurchaseDate
+1,Bob,33,f,"₹50,000",,12,Delhi,Bronze,2024-01-05,05/01/24
+2,Sara,33,,"80,000",55,,,GOLD,NULL,
+3,John,35,male,"80,000",40,,Delhi,Gold,N/A,N/A
+4,Alice,28,male,45k,,12,,gold,,05/01/24
+5,Alice,25,,"₹50,000",55,12, new york ,silver,2023/11/30,12-05-2023
+6,,,Non-binary,60000,,,,,12-05-2023,
+7,John,twenty five,MALE,70k,95,20,,GOLD,05/01/24,2024-01-05
+8,Alice,twenty five,Non-binary,50000,95,,Delhi,Gold,,
+9,Bob,28,Non-binary,,55,12,,Silver,2024-01-05,N/A
+10,,,F,,,5, new york ,,N/A,12-05-2023
+11,Alice,,,50000,,5,,GOLD,2023/11/30,2023/11/30
+12,,30,,,55,20,,GOLD,12-05-2023,2024-01-05
+13,John,25,,45k,55,20,New York,,32-15-2023,05/01/24
+14,Sara,,,"₹50,000",95,, new york ,Bronze,12-05-2023,2024-01-05
+15,Sara,40,,70k,,,New York,Gold,2023/11/30,32-15-2023
+16,Alice,,Non-binary,"₹50,000",,,delhi,silver,2024-01-05,NULL
+17,John,25,,"1,20,000",95,12,,,2024-01-05,
+18,,40,M,70k,,20,Delhi,Gold,N/A,NULL
+19,Bob,30,Non-binary,"80,000",,12,,silver,2023/11/30,05/01/24
+20,Alice,twenty five,F,,95,20,Delhi,silver,,NULL
+21,Alice,40,male,"80,000",,20,  Mumbai,silver,32-15-2023,32-15-2023
+22,John,30,male,45k,40,,,Silver,2024-01-05,2024-01-05
+23,,28,Female,70k,40,5, new york ,,N/A,05/01/24
+24,Bob,33,,"1,20,000",,5,delhi,,12-05-2023,12-05-2023
+25,Michael,35,M,,72,20,Delhi,,12-05-2023,2023/11/30
+26,Alice,twenty five,Non-binary,50000,72,, new york ,Gold,,NULL
+27,Michael,33,,90000,55,,  Mumbai,,05/01/24,2024-01-05
+28,Bob,28,Non-binary,,55,,,silver,12-05-2023,05/01/24
+29,Michael,40,MALE,60000,95,,Delhi,Silver,05/01/24,
+30,,40,Female,70k,55,,,Gold,2023/11/30,32-15-2023
+31,Bob,28,Non-binary,90000,72,,delhi,Silver,12-05-2023,32-15-2023
+32,Alice,33,male,45k,72,,,gold,12-05-2023,NULL
+33,,35,Non-binary,,,5,  Mumbai,silver,N/A,2023/11/30
+34,Bob,,M,"1,20,000",55,5,New York,Silver,2024-01-05,NULL
+35,Bob,30,F,50000,,, new york ,Gold,,
+36,John,40,MALE,45k,,,,silver,12-05-2023,12-05-2023
+37,Alice,,F,"80,000",72,20,delhi,Gold,05/01/24,
+38,Michael,twenty five,,"80,000",,12,  Mumbai,,,32-15-2023
+39,,35,Female,"80,000",,20,,Silver,NULL,NULL
+40,,40,f,70k,95,20,,,,32-15-2023
+41,Alice,35,f,90000,,5,delhi,Bronze,,2024-01-05
+42,,,,,40,,,GOLD,2024-01-05,
+43,John,35,male,60000,40,,,gold,12-05-2023,2023/11/30
+44,Michael,35,Non-binary,"₹50,000",40,5,Delhi,silver,,
+45,Alice,25,,90000,,,New York,Bronze,05/01/24,N/A
+46,Michael,,,60000,,,Delhi,Silver,2023/11/30,2023/11/30
+47,Michael,25,M,"1,20,000",,12, new york ,GOLD,12-05-2023,12-05-2023
+48,,35,F,45k,,20,  Mumbai,GOLD,2024-01-05,12-05-2023
+49,Sara,33,,,72,5, new york ,,2024-01-05,NULL
+50,,,Female,,72,20,,,32-15-2023,32-15-2023

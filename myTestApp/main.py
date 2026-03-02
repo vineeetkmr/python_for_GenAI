@@ -1,5 +1,5 @@
 def main():
-    print("Hello from python-for-genai!")
+    print("Hello from mytestapp!")
 
 
 if __name__ == "__main__":
